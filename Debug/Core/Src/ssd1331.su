@@ -1,0 +1,6 @@
+ssd1331.c:19:6:ssd1331_command	16	static
+ssd1331.c:26:6:setPixel	16	static
+ssd1331.c:37:6:ssd1331_clear	8	static
+ssd1331.c:42:6:invert	16	static
+ssd1331.c:49:6:ssd1331_display	24	static
+ssd1331.c:96:6:ssd1331_init	16	static

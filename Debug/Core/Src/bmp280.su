@@ -1,0 +1,12 @@
+bmp280.c:10:9:Read8	40	static
+bmp280.c:18:6:Write8	32	static
+bmp280.c:23:10:Read16	40	static
+bmp280.c:29:10:Read24	40	static
+bmp280.c:39:6:BMP_SET_MODE	24	static
+bmp280.c:53:6:BMP280_SetPressureOversampling	24	static
+bmp280.c:70:6:BMP280_SetTemperatureOversampling	24	static
+bmp280.c:87:10:BMP280_ReadTemperatureRaw	24	static
+bmp280.c:101:10:BMP280_ReadPressureRaw	24	static
+bmp280.c:116:7:BMP280_ReadTemperature	32	static
+bmp280.c:140:9:BMP280_ReadPressureAndTemperature	40	static
+bmp280.c:183:9:BMP280_Init	32	static
